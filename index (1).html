@@ -1,0 +1,34 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Secure File Sharing</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <nav>
+    <h1>🔐 SecureFileSharing</h1>
+    <p>Blockchain Powered Security</p>
+  </nav>
+
+  <main>
+    <section class="card upload">
+      <h2>Upload File</h2>
+      <input type="file" id="uploadFile">
+      <button onclick="uploadFile()">Encrypt & Store</button>
+      <p id="uploadStatus"></p>
+    </section>
+
+    <section class="card verify">
+      <h2>Verify File</h2>
+      <input type="file" id="verifyFile">
+      <button onclick="verifyFile()">Verify Integrity</button>
+      <p id="verifyStatus"></p>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
