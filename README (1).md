@@ -107,6 +107,6 @@ python download.py
 ## 👤 Author
 
 
-**Akash**  
-🔗 [GitHub](https://github.com/akash007-eng)  
-🔗 [LinkedIn](https://www.linkedin.com/in/akash-koka-007k/)
+**Akshaya**  
+🔗 [GitHub](https://github.com/AkshayaBadugu)  
+🔗 [LinkedIn](https://www.linkedin.com/in/akshaya-badugu-224a45266/)
